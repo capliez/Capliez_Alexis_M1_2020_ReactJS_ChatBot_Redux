@@ -12,7 +12,7 @@ What you need to use it:
 ### Installation
 
 Step to install:
-  1. ``` git clone https://github.com/capliez/Capliez_Alexis_M1_2020_ReactJS_ChatBot/ ```
+  1. ``` git clone https://github.com/capliez/Capliez_Alexis_M1_2020_ReactJS_ChatBot_Redux ```
   2. ``` npm install ```
   3. ``` npm start ```
   4. Go to ``` http://localhost:3000/ ```
